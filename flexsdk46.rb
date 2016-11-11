@@ -2,7 +2,7 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 
-class Flexsdk < Formula
+class Flexsdk46 < Formula
   desc "Flex SDK version 4.6"
   homepage "http://www.showtime.com"
   url "http://monkeypit.shoany.com:8080/flexsdk-4.6.tar.gz"
